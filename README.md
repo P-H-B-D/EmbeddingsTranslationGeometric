@@ -1,4 +1,4 @@
-# Embeddings Translation using Geometric Loss
+# Geometric and Topological Analysis of Embedding Models and Cross-embedding Translations
 
 Peter Bowman-Davis and Kristof Reimann for Yale CPSC 488, research project for AI foundation models.
 
