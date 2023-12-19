@@ -8,5 +8,9 @@ We hypothesize that there is some high dimensional intrinsic structure of langua
 
 In this project, we attempt a variety of geometric measurements: 
 - Linear measurements in ```linearAnalysis.ipynb```
+- Local Linearity Estimation (LLE) in ```locallyLinearEmbedding.ipynb```
+- Diffusion Curvature estimation in ```diffusionCurvature.ipynb```
 - k-Means cross-model embeddings clustering with silhouette scoring in ```kMeans.ipynb```
 - Random k-Means sampling for cross-model cluster invariance analysis in ```randomKMeans.ipynb```
+- Training of the translation model ```translationModel.ipynb```
+- Evaluation of a translation model across epochs using k-Means score in ```translationModelKMeansLoss.ipynb```
